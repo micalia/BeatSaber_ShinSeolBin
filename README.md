@@ -1,3 +1,9 @@
+프로젝트명 : 비트세이버 (메타 퀘스트2)
+개발기간 : 2023.09.05 ~ 2023.10.04
+개발인원 : 언리얼 개발자 2명
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/onU5jmK92Ow" title="[4차 프로젝트] 그라데이션(신설빈, 어재경) - 비트세이버(BeatSaber)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ![20231004193314_팀 그라데이션 베타_page-0001](https://github.com/user-attachments/assets/b7c91789-7074-4770-ab4f-3fb7d3cbaa3c)
 ![20231004193314_팀 그라데이션 베타_page-0002](https://github.com/user-attachments/assets/4d5c5e34-4f64-47d0-baf6-e6a3fe210cdf)
 ![20231004193314_팀 그라데이션 베타_page-0003](https://github.com/user-attachments/assets/ddbf8585-d3e3-4f84-a6c4-218e21345a7c)
