@@ -1,0 +1,43 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.2",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "BeatSaber",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"UMG"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "OpenXR",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Linux",
+				"Android",
+				"HoloLens"
+			]
+		},
+		{
+			"Name": "UdpMessaging",
+			"Enabled": false
+		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"PS4",
+		"PS5",
+		"Windows",
+		"WindowsNoEditor",
+		"Switch",
+		"XboxOne",
+		"XSX"
+	]
+}
