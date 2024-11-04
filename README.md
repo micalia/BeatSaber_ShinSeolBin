@@ -1,7 +1,7 @@
-프로젝트명 : 비트세이버 (메타 퀘스트2)
-개발기간 : 2023.09.05 ~ 2023.10.04
-개발인원 : 언리얼 개발자 2명
-시연 링크 :https://www.youtube.com/embed/onU5jmK92Ow
+프로젝트명 : 비트세이버 (메타 퀘스트2) <br>
+개발기간 : 2023.09.05 ~ 2023.10.04<br>
+개발인원 : 언리얼 개발자 2명<br>
+시연 링크 :https://www.youtube.com/embed/onU5jmK92Ow <br>
 
 ![20231004193314_팀 그라데이션 베타_page-0001](https://github.com/user-attachments/assets/b7c91789-7074-4770-ab4f-3fb7d3cbaa3c)
 ![20231004193314_팀 그라데이션 베타_page-0002](https://github.com/user-attachments/assets/4d5c5e34-4f64-47d0-baf6-e6a3fe210cdf)
