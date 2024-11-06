@@ -2,16 +2,19 @@
 개발기간 : 2023.09.05 ~ 2023.10.04<br>
 개발인원 : 언리얼 개발자 2명<br>
 시연 링크 :https://www.youtube.com/embed/onU5jmK92Ow <br>
-<br>
 
-# Point 1. DataTable을 이용한 음악 리스트 만들기
+# Point 1. 터널링 현상 해결
+[LightSaber.cpp](https://github.com/micalia/BeatSaber_ShinSeolBin/blob/main/Source/BeatSaber/Private/LightSaber.cpp#L97)
+![LightSaber](https://github.com/user-attachments/assets/1207700b-dd5f-468b-b842-7f192a324645)
+
+# Point 2. 노트블럭을 베는 방향에 따른 점수 판정
+[LightSaber.cpp](https://github.com/micalia/BeatSaber_ShinSeolBin/blob/main/Source/BeatSaber/Private/LightSaber.cpp#L97)
+![slice count](https://github.com/user-attachments/assets/23251f5f-bd7a-4d80-a321-dcb0ff1696b7)
+
+# Point 3. DataTable을 이용한 음악 리스트 만들기
 [SongListUI.cpp](https://github.com/micalia/BeatSaber_ShinSeolBin/blob/main/Source/BeatSaber/Private/SongListUI.cpp#L35)
 <br>
-#### View
-<img src="https://github.com/user-attachments/assets/c1856309-5dc8-4577-89ff-dbddb79f2803" width="450" />
-
-<br>
-음악 리스트에 들어갈 음악 파일 정보가 담긴 csv파일을 언리얼에 임포트하여 DataTable로 변환한 후 해당 파일을 위젯이 생성될 때 데이터들을 파싱하여 음악 리스트 UI가 구성되도록 구현.
+![song list](https://github.com/user-attachments/assets/0108fd5d-fa2b-457a-9733-c5cefc7c89a6)
 
 <br>
 
