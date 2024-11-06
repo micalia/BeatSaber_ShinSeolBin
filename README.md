@@ -3,8 +3,14 @@
 개발인원 : 언리얼 개발자 2명<br>
 시연 링크 :https://www.youtube.com/embed/onU5jmK92Ow <br>
 <br>
-<h1>Point 1. DataTable을 이용한 음악 리스트 만들기</h1>
-### [SongListUI.cpp](https://github.com/micalia/BeatSaber_ShinSeolBin/blob/main/Source/BeatSaber/Private/SongListUI.cpp)
+
+# Point 1. DataTable을 이용한 음악 리스트 만들기
+[SongListUI.cpp](https://github.com/micalia/BeatSaber_ShinSeolBin/blob/main/Source/BeatSaber/Private/SongListUI.cpp#L35)
+<br>
+#### View
+<img src="https://github.com/user-attachments/assets/c1856309-5dc8-4577-89ff-dbddb79f2803" width="450" />
+
+<br>
 음악 리스트에 들어갈 음악 파일 정보가 담긴 csv파일을 언리얼에 임포트하여 DataTable로 변환한 후 해당 파일을 위젯이 생성될 때 데이터들을 파싱하여 음악 리스트 UI가 구성되도록 구현.
 
 <br>
