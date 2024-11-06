@@ -2,6 +2,15 @@
 개발기간 : 2023.09.05 ~ 2023.10.04<br>
 개발인원 : 언리얼 개발자 2명<br>
 시연 링크 :https://www.youtube.com/embed/onU5jmK92Ow <br>
+<br>
+<h1>Point 1. DataTable을 이용한 음악 리스트 만들기</h1>
+<SongListUI.cpp>
+음악 리스트에 들어갈 음악 파일 정보가 담긴 csv파일을 언리얼에 임포트하여 DataTable로 변환한 후 해당 파일을 위젯이 생성될 때 데이터들을 파싱하여 음악 리스트 UI가 구성되도록 구현.
+
+<br>
+
+<발표자료>
+<br>
 
 ![20231004193314_팀 그라데이션 베타_page-0001](https://github.com/user-attachments/assets/b7c91789-7074-4770-ab4f-3fb7d3cbaa3c)
 ![20231004193314_팀 그라데이션 베타_page-0002](https://github.com/user-attachments/assets/4d5c5e34-4f64-47d0-baf6-e6a3fe210cdf)
